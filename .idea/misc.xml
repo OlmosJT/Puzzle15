@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/bg_board.xml" value="0.2015" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/bg_cell.xml" value="0.25" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/bg_records.xml" value="0.1765" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/btn_clear_cache.xml" value="0.1895" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/btn_sound_mute.xml" value="0.186" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/btn_sound_speaker.xml" value="0.186" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/btn_sound_switcher.xml" value="0.186" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/button_with_radius.xml" value="0.14" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/button_with_radius_white.xml" value="0.1805" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/ic_back.xml" value="0.186" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/ic_logo_face.xml" value="0.177" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/drawable/switch_color.xml" value="0.1895" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/font/font.xml" value="0.23020833333333332" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout-v26/dialog_clear_cache.xml" value="0.33" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout/activity_about_app.xml" value="0.17604166666666668" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout/activity_game.xml" value="0.22" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout/activity_records.xml" value="0.2" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout/activity_settings.xml" value="0.22" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout/activity_win.xml" value="0.2" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout/dialog_clear_cache.xml" value="0.33" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/layout/dialog_settings_menu.xml" value="0.33" />
+        <entry key="..\:/myApps/Puzzle15_version3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

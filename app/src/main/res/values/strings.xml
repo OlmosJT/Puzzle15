@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Puzzle15</string>
+    <string name="app_info">Owned by GITA academy.
+        Created by Olmos JT Do not copyright © 2022</string>
+    <string name="instructions">Sort numbers in order horizontally!</string>
+    <string name="text_youWin">YOU WON!</string>
+
+    <string name="prev">previous</string>
+    <string name="best">best</string>
+
+    <string name="btn_newGame">New game</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_about">About</string>
+    <string name="btn_exit">Exit</string>
+
+    <string name="logoTextpuzzle">PUZZLE</string>
+    <string name="about">ABOUT</string>
+
+    <string name="aboutText">
+        This app is created by junior developer whose name is Olmos JT.
+        He is currently studying in Android bootcamp at GITA academy and the game
+        \"puzzle15\" is his first app ever worked on for android in the 3rd lesson of course.
+        Be free to give any offers from your side for the game development and every
+        advices will be considered carefully and thankfully.\nEnjoy playing game! Do your best!
+        \n\nHow to Play:\n\nGame of Fifteen is a classic combination puzzle.
+        Originally called Gem Puzzle, it was a wooden box with 15 numbered tiles.
+        The goal of Fifteen Puzzle is to arrange the tiles from 1 to 15 by sliding them
+        one by one into the empty space on the board.
+        The puzzle is considered solved when tile 1 is in the top left corner, tile 2 is to the right of it,
+        and so on, with the empty space on the bottom right.
+        To move a tile into the empty space, you can click or touch on it, or tap to the playing area.
+        Tiles can only move vertically or horizontally.
+    </string>
+
+    <string name="back">Back</string>
+    <string name="shuffle">shuffle</string>
+    <string name="dialog_text">Do you agree to delete all records?
+        \nthis will result in the loss of your best records too!</string>
+</resources>

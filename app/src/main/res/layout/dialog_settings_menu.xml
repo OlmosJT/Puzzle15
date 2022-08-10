@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:padding="8dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:textColor="@color/darkBrown"
+        android:textSize="32sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"/>
+
+    <ImageButton
+        android:id="@+id/btnSound"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:src="@drawable/ic_mute"
+        android:layout_margin="8dp"
+        android:textColor="@color/white"
+        android:background="@drawable/btn_sound_mute"/>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_clearCache"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="CLEAR RECORDS"
+        android:layout_margin="8dp"
+        style="@style/btn_clear_cache"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
